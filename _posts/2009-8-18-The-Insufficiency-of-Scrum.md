@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Insufficiency of Scrum: The Importance of Internal Quality When Practicing Scrum
+title: The Insufficiency of Scrum - The Importance of Internal Quality When Practicing Scrum
 ---
 *I originally posted this in 2009 without the sub-title and received a lot of feedback that helped me understand that my title was leading readers to think that I am anti-Scrum or anti-Agile. For context, I am a long time agile zealot and think that Scrum can be a great agile introduction or transition for non-agile teams.*
 
