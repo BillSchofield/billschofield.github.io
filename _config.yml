@@ -19,11 +19,11 @@ avatar: images/avatar.jpg
 footer-links:
   dribbble:
   email: bill@billschofield.net
-  facebook: https://www.facebook.com/BillSchofield
+  facebook: BillSchofield
   flickr:
-  github: https://github.com/BillSchofield
+  github: BillSchofield
   instagram:
-  linkedin: www.linkedin.com/in/billschofield
+  linkedin: BillSchofield
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: bill_schofield
@@ -53,7 +53,7 @@ baseurl: ""
 #
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
