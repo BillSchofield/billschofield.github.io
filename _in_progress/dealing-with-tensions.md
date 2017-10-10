@@ -17,7 +17,7 @@ Take time to recharge your emotional batteries (this is different for everyone).
 Ignore it. Maybe it’s just not worth worrying about.
 
 Addressing the source of the tension
-ThoughtWorkers are supposed to challenge the status quo
+Agile Consultants are supposed to challenge the status quo
 Is there a policy or responsibility at your level of scope that could address it
 Broadcast the issue to those who could address it at their level of scope
 

@@ -6,9 +6,11 @@ permalink: /about/
 
 ### More Information
 
-I'm a software developer, consultant, and teacher. My passions center around catalyzing teams through continuous learning, explicit transparent communication, and ruthless attention to quality. 
+I'm a software developer, consultant, and teacher. My passions center around catalyzing teams through continuous 
+improvement, explicit transparent communication, and ruthless attention to quality. 
 
-ThoughtWorks is my current home where my responsibilities include Learning & Development for the North American Associate Consultant program and working as an  Architect, Developer, Business Analyst, and QA as needed. I travel a lot and work with hundreds of amazing people. 
+Pivotal Labs is my current home where work in the Pivotal Onsite Delivery organization as a Software Development Advisor
+ (I'm still hands-on). I travel frequently and change context often. 
 
 ### Contact me
 
