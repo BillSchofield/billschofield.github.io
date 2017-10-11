@@ -2,8 +2,8 @@
 layout: post
 title: The Key Question to Ask Your Client
 ---
-I had a realization a couple of years ago that I was failing to ask my clients a key question and that both my teams and 
-my client were in a lot of pain because our discussions weren’t aligned with each other.
+I realized a couple of years ago that I was failing to ask my clients a key question and that both my teams and
+ clients were in a lot of pain because our discussions weren’t aligned with each other.
 
 The repeated patterns of many projects looked like this:
 
@@ -31,6 +31,13 @@ the client still wants us to go faster.
 The business decision that our clients can make that will inform both our technical and business priorities is: 
 **“What time frame should we prioritize over all others?”**
 
+*Should we go fast this week even if it causes us to go slower for the rest of the year?*
+
+*Is getting the most done for next Quarter's release more important than maximizing our results this month?*
+
 What this question does is clarify that in order to go fast this week, we will need to go slower next week and if we 
 want to get the most done over the next year, we will need to invest more time this week into going well.
 
+As developers, we're not making these decisions or even judging which priority is "right". Instead, we're exposing the
+business decision that will inform our technical decisions, like how much effort to invest in refactoring, testing, and
+experimentation.
