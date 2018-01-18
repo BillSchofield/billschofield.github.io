@@ -3,9 +3,14 @@ layout: post
 title: How to Discover the Business Value of Your Tech Task
 ---
 *This is Part 1 in a series about improving communication between
-developers and the business, especially in terms of prioritizing technical
+developers and the business, with a focus on prioritizing technical
 effort.*
 
+Audience: Developers and Project Managers
+
+Estimated Reading Time: 4 minutes
+
+### The Problem
 When the business asks questions like, *"What are you working on?"* they
 are usually trying to understand *why* developers are choosing their
 current work item. They are seeking visibility into how you
@@ -15,6 +20,7 @@ Often the answers to these questions lead to clumsy and uncomfortable
 conversations. The developers feel unfairly judged and the business feels
 powerless to steer their project.
 
+### The Solution
 An effective way to increase the effectiveness of these situations is
 for the developers to share the *why* behind this work with the business.
 If we don't understand the business value of the work we are doing,
@@ -25,20 +31,21 @@ discovering the business value of this Tech Task by asking ourselves
 business and work with them to prioritize this work the same way we
 do with user stories.
 
-## How To Do It
-
-For each of the non-trivial "Tech Tasks" you want to work on, ask
-yourself [*5 Whys*](https://en.wikipedia.org/wiki/5_Whys) and you will
-discover how this Task provides value to the business.
+### How To Do It
+We are seeking the core business value behind our technical tasks. To
+discover this value,  ask yourself [*5 Whys*](https://en.wikipedia.org/wiki/5_Whys)
+and your answers will lead you to the value this Tech Task provides to
+the business.
 The *5 Whys* is a Six Sigma technique for Root Cause Analysis
-and the root cause is what we want to understand about these Tech Tasks.
-We are seeking the core business value behind the work.
+and the root cause of our desire to do this Tech Task is what we want to
+better understand.
+
 
 Once you can explain the business value of this Tech Task, you
 can either work with the Business to prioritize it as a Tech Task or
 even reframe it as as User Story.
 
-## Example of 5 Whys
+### Example of 5 Whys
 Suppose while you're in the process of finishing your last User Story, you discover
 that it was difficult to test interactions between the `Order` and `Customer`
 classes. In particular, it is difficult to "add" an `Order` to a `Customer`
@@ -67,7 +74,7 @@ interact with `Orders`.
 
 > So we reduce our time to market
 
-## Reframing Tech Tasks as User Stories
+### Reframing Tech Tasks as User Stories
 I'm not yet convinced that we always (or even often) want to rewrite
 Tech Tasks as User Stories, but this is a technique to try if you want to
 invest in improving communication between developers and the business.
@@ -110,7 +117,7 @@ We could also create tiers of User Stories, on for each level of the *5 Whys*.
 Each tier of User Stories would be the `so that` clause for the level of User Stories
 below it.
 
-## Have the Conversations
+### Have the Conversations
 The real key here is to have the conversations between developers and
 the business where you truly try to understand the perspective of the
 other and you work hard to present your perspective in a language that
