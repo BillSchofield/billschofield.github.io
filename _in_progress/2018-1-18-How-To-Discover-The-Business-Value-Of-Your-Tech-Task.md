@@ -7,7 +7,6 @@ developers and the business, with a focus on prioritizing technical
 effort.*
 
 Audience: Developers and Project Managers
-
 Estimated Reading Time: 4 minutes
 
 ### The Problem
