@@ -15,3 +15,20 @@ layout: default
 
   {% include disqus.html %}
 </article>
+
+<div class="c-pagination">
+  {% if page.previous %}
+  <div>
+    <h3>Previous</h3>
+    <p>{{page.previous.title}}</p>
+    <p><a  class="btn"  href="{{ site.baseurl }}{{page.previous.url}}">Read Post</a></p>
+  </div>
+  {% endif %}
+  {% if page.next %}
+  <div>
+    <h3>Up Next</h3>
+    <p>{{page.next.title}}</p>
+    <p><a  class="btn"  href="{{ site.baseurl }}{{page.next.url}}">Read Post</a></p>
+  </div>
+  {% endif %}
+</div>

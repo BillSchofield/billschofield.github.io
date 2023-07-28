@@ -6,10 +6,10 @@
 name: Bill Schofield
 
 # Short bio or description (displayed in the header)
-description: Software Development Advisor, Developer, and Pivot
+description: Practice Lead, Advisor, Developer, and Mentor
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAdFAAAAJDhlMGMwMTJjLTc3NDktNDNkMy05NWQxLTQzM2YyYjYyZmE4Ng.jpg
+avatar: https://media-exp3.licdn.com/dms/image/C4D03AQEGmS5J1BVHog/profile-displayphoto-shrink_400_400/0/1516272612513?e=1628726400&v=beta&t=ncSfV25ujmk6vwTZvFCdk4EwULe4412m94Wc2ctQsJs
 
 #
 # Flags below are optional
@@ -19,7 +19,6 @@ avatar: https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAdFAA
 footer-links:
   dribbble:
   email: bill@billschofield.net
-  facebook: BillSchofield
   flickr:
   github: BillSchofield
   instagram:
@@ -65,6 +64,7 @@ sass:
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+theme: lanyon
 
 # Exclude these files from your production _site
 exclude:

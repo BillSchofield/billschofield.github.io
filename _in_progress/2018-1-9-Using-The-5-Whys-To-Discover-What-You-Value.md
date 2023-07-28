@@ -6,7 +6,7 @@ This is a follow-on post to
 [Helping the Business Understand the Value of Specific Tech Tasks]() and
 will be easier to understand if you read that post first.
 
-## Example of 5 Whys
+## Example of '5 Whys'
 > I want to refactor this class.
 
 **Why?**
@@ -29,11 +29,8 @@ will be easier to understand if you read that post first.
 
 > So we reduce our time to market
 
-## Ishikawa Diagram
-[Ishikawa Diagram](http://whatis.techtarget.com/definition/fishbone-diagram)
-
 ## Relating Technical Decisions to Value Statements
-As we ask 5 Whys for many Test Tasks, we'll discover themes to the
+As we ask '5 Whys' for many Test Tasks, we'll discover themes to the
 answers we give ourselves. They might be "Reduce Time to Market" or
 "Go Faster in the Future". We could even create a hierarchy of these
 answers.
@@ -56,3 +53,7 @@ Using the model of the [Agile Manifesto](http://agilemanifesto.org/)
 "this over that" value statements, we could write value statements like:
 
 > We value **Getting Results Quickly Now** even over **Going Faster in the Long-Term**
+
+
+Why? Because...
+How? By..
